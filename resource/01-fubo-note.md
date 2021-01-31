@@ -357,38 +357,46 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 ### 常见的支撑与阻力
 
 - 1、近阶段新高新低位置（可根据黄金分割线找出）
-  ![fubo](images\fubo-20200509-01.jpg)
-  ![fubo](images\fubo-20200509-02.jpg)
+  ![fubo](images\fubo-20200509-01.png)
+  </br>
 
+  ![fubo](images\fubo-20200509-02.png)
+  
 - 2、密集成交区域
-  ![fubo](images\fubo-20200509-03.jpg)
-  ![fubo](images\fubo-20200509-04.jpg)
+  ![fubo](images\fubo-20200509-03.png)
+  </br>
 
+- ![fubo](images\fubo-20200509-04.png)
+  
 - 3、重要的整数关口。关口位置本身没有作用，但是在经过市场反复确认后，可能会在某个位置形成很强的支撑或阻力作用，比如近段时间创业板的1900点关口就是阻力位。
 
 - 4、跳空缺口形成的支撑或阻力
-  ![fubo](images\fubo-20200509-05.jpg)
-  ![fubo](images\fubo-20200509-06.jpg)
+  ![fubo](images\fubo-20200509-05.png)
+  </br>
 
+- ![fubo](images\fubo-20200509-06.png)
+  
 - 5、股价多次触及的位置形成的支撑和阻力
-  ![fubo](images\fubo-20200509-07.jpg)
+  ![fubo](images\fubo-20200509-07.png)
 
 - 6、趋势线具有支撑或阻力作用
-  ![fubo](images\fubo-20200509-08.jpg)
-  ![fubo](images\fubo-20200509-09.jpg)
+  ![fubo](images\fubo-20200509-08.png)
+  </br>
 
+- ![fubo](images\fubo-20200509-09.png)
+  
 - 7、各种技术形态的颈线具有支撑或阻力作用。比如头肩形，三角形，旗形等，它们的颈线位具有支撑或阻力的作用。 
 
 ### 支撑与阻力的买卖策略
 
 - 1、上升趋势中的买卖时机
-  ![fubo](images\fubo-20200509-10.jpg)
+  ![fubo](images\fubo-20200509-10.png)
 
 - 2、下降趋势中的买卖时机
-  ![fubo](images\fubo-20200509-11.jpg)
+  ![fubo](images\fubo-20200509-11.png)
 
 - 3、支撑与压力的操作策略
-  ![fubo](images\fubo-20200509-12.jpg)
+  ![fubo](images\fubo-20200509-12.png)
 
 - 4.上涨到压力区间时，出现放量上涨，卖点（庄家出货，散户进场）
 
@@ -613,7 +621,7 @@ MACD 指标的构造过程，可以从以下几个方面理解：
 
 
 # 参考 
-- 富伯说股微信公众号
+- 富伯说股-微信公众号
 - [K 线图](https://baike.baidu.com/item/K%E7%BA%BF%E5%9B%BE/85028)
 - [如何找支撑位和压力位](https://www.zhihu.com/question/337290434/answer/771411880)
 - [教你技术分析（一）——支撑与阻力](https://zhuanlan.zhihu.com/p/35489068)
