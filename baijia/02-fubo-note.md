@@ -91,7 +91,7 @@ _学会把赚到的钱往外面提，落袋为安。_
 
 ### 1.4 股价的运行流程
 
-![fubo-20200210-01](images/fubo-20200210-01.png)
+![fubo-20200210-01](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282052485.png)
 
 **信息 --> 人 --> 资金、筹码 --> 盘面K线--> K线引申出各种技术指标**
 
@@ -108,13 +108,13 @@ _学会把赚到的钱往外面提，落袋为安。_
 
 K 线又称阴阳线或阴阳烛。它能将每个交易期间的开盘与收盘的涨跌以实体的阴阳线表示出来，并将交易曾初现的最高价及最低价以上影线和下影线形式直观的反映出来。如下图：
 
-![fubo-20200212-01](images/fubo-20200212-01.png)
+![fubo-20200212-01](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282053217.png)
 
 #### 2.1.2 K 线的分类
 
 从形态上分为阳线、阴线和同价线，如下图：
 
-![fubo-20200212-02](images/fubo-20200212-02.png)
+![fubo-20200212-02](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282053786.png)
 
 #### 2.1.3 K 线的作用
 
@@ -154,7 +154,7 @@ K 线形态可分为：
 
 上升形态和见底形态的 K 线组合，如下图：
 
-![fubo-20200212-03](images/fubo-20200212-03.png)
+![fubo-20200212-03](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282054907.png)
 
 **特征**
 
@@ -168,7 +168,7 @@ K 线形态可分为：
 
 **案例**
 
-![fubo](images/fubo-20200212-04.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282054979.png)
 
 _* 阳线实体深入阴线实体越多，转势信号越强。_
 
@@ -176,7 +176,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 属于上升形态和见底形态的 K 线组合，如下图：
 
-![fubo](images/fubo-20200212-05.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282054842.png)
 
 **特征**
 
@@ -190,13 +190,13 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 **案例**
 
-![fubo](images/fubo-20200212-06.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282054376.png)
 
 #### 2.2.3 早晨十字星
 
 又称“希望十字星”，属于上升形态和见底形态的 K 线组合，如下图：
 
-![fubo](images/fubo-20200212-07.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282054631.png)
 
 **特征**
 
@@ -209,7 +209,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 **案例**
 
-![fubo](images/fubo-20200212-08.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282055164.png)
 
 ## 3 节奏点
 
@@ -218,7 +218,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 - 涨跌转折
 - 跌不动或涨不动的位置
 
-![fubo](images/fubo-20200214-01.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108583.png)
 
 节奏点的分类：
 
@@ -236,7 +236,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 复杂波时间窗口：11 ~ 13
 
-![fubo](images/fubo-20200214-02.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108537.png)
 
 #### 3.1.1 原理
 
@@ -246,7 +246,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 曹刿论战：一鼓作气 -> 再而衰 -> 三而竭
 
-![fubo](images/fubo-20200214-03.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108053.png)
 
 #### 3.1.2 应用
 
@@ -265,7 +265,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
     - 下降趋势，反弹 6 ~ 8 之后不追高（卖点）
     - 上升趋势，下跌 6 ~ 8 之后不割肉（买点）
 
-![fubo](images/fubo-20200214-04.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108398.png)
 
 #### 3.1.3 注意事项
 
@@ -305,7 +305,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 - 趋势改变后，寻找(上升)**回调支撑位**或(下降)**反弹的压力位** (38.2%、61.8%)
 
-  ![fubo](images/fubo-20200214-05.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108636.png)
 
 - 破位或突破后，寻找下跌支撑或上涨的目标位(背离：38.2%、61.8%)
 
@@ -338,7 +338,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 价格在前期的高点和低点附近都是关键的敏感区域，前期高点都是阻挡，前期低点都是支撑，一旦价格突破前期高点，此高点由阻力位变成支撑位，一旦价格跌破前期支撑，此低点由支撑变为阻力。在确认支撑与阻力的角色转换时，反方突破越深，保持的时间越久，被确认的可靠性就越大。说明如下图：
 
-![fubo](images/fubo-20200214-07.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108745.png)
 
 #### 3.3.2 支撑线和压力线的识别
 
@@ -350,46 +350,46 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 #### 3.3.3 常见的支撑与阻力
 
 - 1、近阶段新高新低位置（可根据黄金分割线找出）
-  ![fubo](images/fubo-20200509-01.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108491.png)
   </br>
 
-  ![fubo](images/fubo-20200509-02.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282108558.png)
 
 - 2、密集成交区域
-  ![fubo](images/fubo-20200509-03.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109453.png)
   </br>
 
-- ![fubo](images/fubo-20200509-04.png)
+- ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109239.png)
 
 - 3、重要的整数关口。关口位置本身没有作用，但是在经过市场反复确认后，可能会在某个位置形成很强的支撑或阻力作用，比如近段时间创业板的1900点关口就是阻力位。
 
 - 4、跳空缺口形成的支撑或阻力
-  ![fubo](images/fubo-20200509-05.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109264.png)
   </br>
 
-- ![fubo](images/fubo-20200509-06.png)
+- ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109374.png)
 
 - 5、股价多次触及的位置形成的支撑和阻力
-  ![fubo](images/fubo-20200509-07.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109218.png)
 
 - 6、趋势线具有支撑或阻力作用
-  ![fubo](images/fubo-20200509-08.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109940.png)
   </br>
 
-- ![fubo](images/fubo-20200509-09.png)
+- ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109316.png)
 
 - 7、各种技术形态的颈线具有支撑或阻力作用。比如头肩形，三角形，旗形等，它们的颈线位具有支撑或阻力的作用。
 
 #### 3.3.4 支撑与阻力的买卖策略
 
 - 1、上升趋势中的买卖时机
-  ![fubo](images/fubo-20200509-10.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109190.png)
 
 - 2、下降趋势中的买卖时机
-  ![fubo](images/fubo-20200509-11.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282109285.png)
 
 - 3、支撑与压力的操作策略
-  ![fubo](images/fubo-20200509-12.png)
+  ![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282110043.png)
 
 - 4.上涨到压力区间时，出现放量上涨，卖点（庄家出货，散户进场）
 
@@ -438,7 +438,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 #### 4.1.3 主力均线
 
 在具体的 K 线走势中，经常会发现一条均线，上升趋势时托住 K 线上行；下跌趋势时一直压制 K 线向下运行，假如 K 线突破这条均线，通常后续会出现一个级别较大的调整或趋势开始转向。
-![fubo](images/fubo-20200215-01.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282110286.png)
 
 **如何建立主力均线**
 
@@ -447,7 +447,7 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 - **反转后**的第 3 波上涨开始（3买）；
 - **一波上涨后展开震荡**，从第 2 波上涨开始建立。
 
-![fubo](images/fubo-20200215-02.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282110514.png)
 
 **主力均线的用法**
 
@@ -471,13 +471,13 @@ _* 阳线实体深入阴线实体越多，转势信号越强。_
 
 MACD 指标，即指数平滑异同移动平均线指标。用来跟踪股价运行趋势、研判股票买卖时机的技术分析工具。
 
-![fubo](images/fubo-20200215-03.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282110265.png)
 
 MACD 指标由 DIFF 快线、DEA 慢线、MACD 柱线和零轴这“三线一轴”组成。通过“三线一轴”的交叉、背离、突破、支撑与阻碍等方式来对股价进行研判。
 
 #### 4.2.1 趋势识别
 
-![fubo](images/fubo-20200215-04.png)
+![fubo](https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282110340.png)
 
 _股价上涨过程中，MACD 随着股价的震荡逐步走高。_
 
@@ -548,7 +548,7 @@ MACD 指标的构造过程，可以从以下几个方面理解：
 
 加仓前，先看一下自己仓位，有没有加仓的资格：
 
-<img src="images/fubo-20200216-02.png" alt="fubo" style="zoom:80%;" />
+<img src="https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282110343.png" alt="fubo" style="zoom:80%;" />
 
 #### 5.2.1 原则
 
@@ -568,13 +568,9 @@ MACD 指标的构造过程，可以从以下几个方面理解：
 
 ## 6 富伯交易系统简介
 
-持续复利 VS 暴涨暴跌:
-
-<img src="images/fubo-20200213-01.png" alt="fubo" style="zoom: 80%;" />
-
 持续复利，不暴涨暴跌，稳定盈利的资金曲线。
 
-<img src="images/fubo-20200213-02.png" alt="fubo" style="zoom: 80%;" />
+<img src="https://gitee.com/rootdingj/imghost/raw/master/fortunehub/fubonote/202201282113568.png" alt="fubo" style="zoom: 80%;" />
 
 持续复利需要具备的能力：
 
